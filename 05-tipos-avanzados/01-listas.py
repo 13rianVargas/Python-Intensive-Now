@@ -1,0 +1,9 @@
+numeros = [1,2,3]
+letras = ["a","b","c"]
+palabras  = ["hola","adios","chau"]
+booleans = [True,False,False,True]
+matriz = [[0,1],[1,0]]#Lista de listas
+ceros = [0] * 10 #[0,0,0,0,0,0,0,0,0,0]
+alfanumerico = numeros + letras
+rango = list(range(1,11))
+chars = list("hello world")
